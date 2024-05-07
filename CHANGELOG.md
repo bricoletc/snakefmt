@@ -6,6 +6,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+### [0.10.2](https://www.github.com/bricoletc/snakefmt/compare/v0.10.1...v0.10.2) (2024-05-07)
+
+
+### Bug Fixes
+
+* f-string spacing [closes [#220](https://www.github.com/bricoletc/snakefmt/issues/220) and [#227](https://www.github.com/bricoletc/snakefmt/issues/227)] ([f5098be](https://www.github.com/bricoletc/snakefmt/commit/f5098bec7c043bbdb954b65a4ab1c4fe3ff3d98c))
+
 ### [0.10.1](https://www.github.com/snakemake/snakefmt/compare/v0.10.0...v0.10.1) (2024-04-15)
 
 
